@@ -1,8 +1,5 @@
 # desafio-poo-dio
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/wilson-silva/desafio-poo-dio
-/blob/main/LICENSE)
-
 ## Sobre o projeto
 
 Este projeto foi desenvolvido no Bootcamp da Spread disponibilizado pela Digital innovation one.
