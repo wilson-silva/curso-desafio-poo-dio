@@ -2,8 +2,8 @@
 
 ## Sobre o projeto
 
-Este projeto foi desenvolvido no Bootcamp da Spread disponibilizado pela Digital innovation one.
-Esta aplicação tem o prpósito de abstrair um bootcamp através do paradigma de programação orientado a objetos e com
+Este projeto foi desenvolvido no Bootcamp da Spread disponibilizado pela Digital Innovation One.
+Esta aplicação tem o propósito de abstrair um bootcamp através do paradigma de programação orientado a objetos e com
 isso reforçar os conceitos:
 - Abstração
 - Encapsulamento
