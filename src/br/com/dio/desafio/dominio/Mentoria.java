@@ -30,7 +30,7 @@ public class Mentoria extends Conteudo{
     @Override
     public String toString() {
 
-        return "Mentoria \n" +
+        return "\nMentoria  - " +
                 super.toString() +
                 "Data: " + data;
     }

@@ -34,6 +34,6 @@ public abstract class Conteudo {
 
     @Override
     public String toString() {
-        return "Titulo: " + titulo + "\n" + "Descricao: " + descricao + "\n";
+        return "Titulo: " + titulo + ",  " + "Descricao: " + descricao + ",  ";
     }
 }
